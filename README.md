@@ -1,4 +1,4 @@
-# Willo Bot 🤖
+# Willow Bot (Facebook Chat Bot) 🤖
 
 Facebook chat bot, built using the MS Bot Framework and MS QnA Maker.
 
