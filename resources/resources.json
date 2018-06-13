@@ -1,0 +1,16 @@
+{
+	"bot_details": {
+		"name": "Willow",
+		"business": "Willow Burn Hospice"
+	},
+	"standard_responses": {
+		"home": "To see more, choose one of these options. 👇",
+		"homeOptions": "Choose one of these options 👆 or say your question to find out more.",
+		"homeAgain": "Say 'home' 🏡 at any time to see these options again.",
+		"questionOptions": "Say your question, or choose one of these options. 👇",
+		"qnaNotFound": "Sorry, I don't know the answer to that one. 🙈 I'm still learning."
+	},
+	"bespoke_responses": {
+
+	}
+}
