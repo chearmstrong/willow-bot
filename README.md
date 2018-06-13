@@ -20,7 +20,7 @@ I'm putting the code up her as a reference - maybe it'll be useful for somebody.
 ## Authors 👷
 
 * **Ché Armstrong** - [Twitter](https://twitter.com/CheArmtrong)
-* **Carl Chee;** - [Twitter](https://twitter.com/carlcheel13)
+* **Carl Cheel** - [Twitter](https://twitter.com/carlcheel13)
 * **Shems Eddine** - [Twitter](https://twitter.com/shems42)
 
 See also the list of [contributors](https://github.com/chearmstrong/willow-bot/graphs/contributors) who participated in this project.
