@@ -183,22 +183,7 @@ bot.dialog('contact', [
             .then(() => sendMessageWithTyping(session, standard_responses.homeOptions))
             .then(() => session.endDialog());
     }
-]).triggerAction({ matches: 'ContactIntent' }); 
-
-//========================================================
-// Agent handoff
-//========================================================
-
-// const isAgent = (session) => session.message.user.name.startsWith("Agent");
-
-// handoff.setup(bot, app, isAgent, {
-//     mongodbProvider: process.env.MONGODB_PROVIDER || "mongodb://willowburnmongo:lvbGGW9IGBzAwDaHEAfiKHXIxA87GwAccP8bmdouXHNb4OdT4tAyvrBFYeDeWNaozkudD6mK6xc97R3XlFoUAQ==@willowburnmongo.documents.azure.com:10255/?ssl=true&replicaSet=globaldb",
-//     directlineSecret: process.env.MICROSOFT_DIRECTLINE_SECRET || "Lmosn8Piz14.cwA.Ab0.HnUb55wiagPD6YuWBmjr2HAYh-OxPJLiMV_grdwdmDo",
-//     //textAnalyticsKey: process.env.CG_SENTIMENT_KEY,
-//     //appInsightsInstrumentationKey: process.env.APPINSIGHTS_INSTRUMENTATIONKEY,
-//     retainData: process.env.RETAIN_DATA || "false",
-//     //customerStartHandoffCommand: process.env.CUSTOMER_START_HANDOFF_COMMAND
-// });
+]).triggerAction({ matches: 'ContactIntent' });
 
 //=========================================================
 // Bot Intents
