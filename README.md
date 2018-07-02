@@ -6,7 +6,7 @@ It was built over the course of a day (~10 hours), for a charity hackathon event
 
 The idea was to build a bot that could handle common questions and answers, freeing up the time of employees and volunteers.
 
-I'm putting the code up her as a reference - maybe it'll be useful for somebody.
+I'm putting the code up here as a reference - maybe it'll be useful for somebody.
 
 ## Getting Started 🚀
 
