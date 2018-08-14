@@ -16,3 +16,15 @@ patch:
         patched: '2018-07-26T14:54:10.944Z'
     - botbuilder-handoff > botbuilder > jsonwebtoken > joi > topo > hoek:
         patched: '2018-07-26T14:54:10.944Z'
+    - botbuilder > jsonwebtoken > joi > hoek:
+        patched: '2018-08-14T13:29:27.328Z'
+    - botbuilder > jsonwebtoken > joi > topo > hoek:
+        patched: '2018-08-14T13:29:27.328Z'
+    - botbuilder-cognitiveservices > botbuilder > jsonwebtoken > joi > hoek:
+        patched: '2018-08-14T13:29:27.328Z'
+    - botbuilder-handoff > botbuilder > jsonwebtoken > joi > hoek:
+        patched: '2018-08-14T13:29:27.328Z'
+    - botbuilder-cognitiveservices > botbuilder > jsonwebtoken > joi > topo > hoek:
+        patched: '2018-08-14T13:29:27.328Z'
+    - botbuilder-handoff > botbuilder > jsonwebtoken > joi > topo > hoek:
+        patched: '2018-08-14T13:29:27.328Z'
